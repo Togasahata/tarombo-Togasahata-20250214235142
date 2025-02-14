@@ -218,6 +218,9 @@
         },
         {
           "ref": "I42*2a41b083-87bd-4b4e-9b90-ce30b9f10a01"
+        },
+        {
+          "ref": "I44*b5c85a9c-1e9f-4188-9ac2-378a9a27142b"
         }
       ],
       "husbandRefs": [
@@ -1306,6 +1309,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*2aed0cf3-f2f0-4950-83d7-e8b39c59155c"
+        }
+      ],
+      "id": "I44*b5c85a9c-1e9f-4188-9ac2-378a9a27142b",
+      "names": [
+        {
+          "value": "AMA ELSE //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
