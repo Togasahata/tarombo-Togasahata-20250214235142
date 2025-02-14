@@ -356,6 +356,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I73*b678c2bc-98c7-4ad7-95a8-14f6dd587307"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I48*dd74b2c4-e5ce-4d18-8873-230d54b1d771"
@@ -2150,6 +2155,25 @@
       "names": [
         {
           "value": "SIANTURI //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F21*0a988aa0-1d67-40eb-b338-c3d03cf64ce0"
+        }
+      ],
+      "id": "I73*b678c2bc-98c7-4ad7-95a8-14f6dd587307",
+      "names": [
+        {
+          "value": "AMA BONARDO //"
         }
       ],
       "eventsFacts": [
