@@ -2769,6 +2769,11 @@
         {
           "tag": "SEX",
           "value": "U"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     }
