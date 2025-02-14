@@ -378,6 +378,9 @@
         },
         {
           "ref": "I65*ad261de8-fb15-4959-a504-950336552ba0"
+        },
+        {
+          "ref": "I67*788ae106-3d4b-40db-b634-b52edff9e76e"
         }
       ],
       "husbandRefs": [
@@ -1979,6 +1982,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
+        }
+      ],
+      "id": "I67*788ae106-3d4b-40db-b634-b52edff9e76e",
+      "names": [
+        {
+          "value": "TINCE //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
