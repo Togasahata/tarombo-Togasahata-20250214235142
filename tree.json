@@ -221,6 +221,9 @@
         },
         {
           "ref": "I44*b5c85a9c-1e9f-4188-9ac2-378a9a27142b"
+        },
+        {
+          "ref": "I46*a70fd6f7-b556-4ee7-aa42-3000acfbd4ad"
         }
       ],
       "husbandRefs": [
@@ -1365,6 +1368,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*2aed0cf3-f2f0-4950-83d7-e8b39c59155c"
+        }
+      ],
+      "id": "I46*a70fd6f7-b556-4ee7-aa42-3000acfbd4ad",
+      "names": [
+        {
+          "value": "OPPU SONDANG //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
