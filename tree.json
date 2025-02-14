@@ -551,11 +551,7 @@
         }
       ],
       "id": "F32*8822163f-707a-47f0-be80-47be8df8f3b5",
-      "wifeRefs": [
-        {
-          "ref": "I74*fc098e71-8159-4613-8694-d342235612fe"
-        }
-      ]
+      "wifeRefs": []
     }
   ],
   "head": {
@@ -2196,25 +2192,6 @@
         {
           "tag": "SEX",
           "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F32*8822163f-707a-47f0-be80-47be8df8f3b5"
-        }
-      ],
-      "id": "I74*fc098e71-8159-4613-8694-d342235612fe",
-      "names": [
-        {
-          "value": "Br. PAKPAHAN //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "F"
         }
       ]
     }
