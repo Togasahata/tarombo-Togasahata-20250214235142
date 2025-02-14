@@ -449,13 +449,18 @@
       "id": "I13*dfa9d4fd-bc9d-4ed1-ba25-55ea72b4020a",
       "names": [
         {
-          "value": "Appatulla //"
+          "value": "APPATULLA //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
