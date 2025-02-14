@@ -611,6 +611,9 @@
         },
         {
           "ref": "I86*98276e2d-459d-4675-b1d4-c9800cba65dd"
+        },
+        {
+          "ref": "I87*3cdb9356-a053-407b-9db3-340b6ccd2896"
         }
       ],
       "husbandRefs": [
@@ -2520,6 +2523,25 @@
       "names": [
         {
           "value": "AMA JHONES //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
+        }
+      ],
+      "id": "I87*3cdb9356-a053-407b-9db3-340b6ccd2896",
+      "names": [
+        {
+          "value": "AMA LEMUEL //"
         }
       ],
       "eventsFacts": [
