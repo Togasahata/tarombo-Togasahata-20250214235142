@@ -381,6 +381,9 @@
         },
         {
           "ref": "I67*788ae106-3d4b-40db-b634-b52edff9e76e"
+        },
+        {
+          "ref": "I69*3bd7baf6-4f0e-4380-9a32-20c653196b8a"
         }
       ],
       "husbandRefs": [
@@ -2038,6 +2041,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
+        }
+      ],
+      "id": "I69*3bd7baf6-4f0e-4380-9a32-20c653196b8a",
+      "names": [
+        {
+          "value": "JUNITA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
