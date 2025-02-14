@@ -477,6 +477,19 @@
           "ref": "I64*28650867-cd26-4b7e-b00a-2a265299f6d1"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I66*fde5a81e-e09a-4e38-b466-d87aee19c13a"
+        }
+      ],
+      "id": "F28*229e2082-770c-4fc2-9aea-c3f99490e1de",
+      "wifeRefs": [
+        {
+          "ref": "I65*ad261de8-fb15-4959-a504-950336552ba0"
+        }
+      ]
     }
   ],
   "head": {
@@ -1932,6 +1945,11 @@
           "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
         }
       ],
+      "fams": [
+        {
+          "ref": "F28*229e2082-770c-4fc2-9aea-c3f99490e1de"
+        }
+      ],
       "id": "I65*ad261de8-fb15-4959-a504-950336552ba0",
       "names": [
         {
@@ -1942,6 +1960,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F28*229e2082-770c-4fc2-9aea-c3f99490e1de"
+        }
+      ],
+      "id": "I66*fde5a81e-e09a-4e38-b466-d87aee19c13a",
+      "names": [
+        {
+          "value": "HUTAPEA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
