@@ -296,6 +296,19 @@
           "ref": "I41*3d531a56-ace7-4016-a49f-b4b4dac6b340"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I42*2a41b083-87bd-4b4e-9b90-ce30b9f10a01"
+        }
+      ],
+      "id": "F18*72ca1f60-9382-4dca-91ad-3865fa3ba9d2",
+      "wifeRefs": [
+        {
+          "ref": "I43*bd444359-4d9d-4d08-b963-9e41b401e4ea"
+        }
+      ]
     }
   ],
   "head": {
@@ -1259,6 +1272,11 @@
           "ref": "F12*2aed0cf3-f2f0-4950-83d7-e8b39c59155c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F18*72ca1f60-9382-4dca-91ad-3865fa3ba9d2"
+        }
+      ],
       "id": "I42*2a41b083-87bd-4b4e-9b90-ce30b9f10a01",
       "names": [
         {
@@ -1269,6 +1287,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F18*72ca1f60-9382-4dca-91ad-3865fa3ba9d2"
+        }
+      ],
+      "id": "I43*bd444359-4d9d-4d08-b963-9e41b401e4ea",
+      "names": [
+        {
+          "value": "Br. LUMBAN SIANTAR //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
