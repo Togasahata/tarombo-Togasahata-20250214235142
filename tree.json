@@ -137,6 +137,9 @@
         },
         {
           "ref": "I23*21c9c024-426a-4492-bd74-5b105e375193"
+        },
+        {
+          "ref": "I24*00e1c7a5-c67a-49c8-9e80-9ac57d574b79"
         }
       ],
       "husbandRefs": [
@@ -702,6 +705,25 @@
       "names": [
         {
           "value": "OPPU SINDA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*8df72b63-9d73-4efb-99ad-086e06250651"
+        }
+      ],
+      "id": "I24*00e1c7a5-c67a-49c8-9e80-9ac57d574b79",
+      "names": [
+        {
+          "value": "APPARRANTE //"
         }
       ],
       "eventsFacts": [
