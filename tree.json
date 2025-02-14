@@ -175,6 +175,11 @@
       "id": "F9*3bfe4fc2-a540-4955-9c92-e13448e6a791"
     },
     {
+      "childRefs": [
+        {
+          "ref": "I32*008feefa-2156-4f61-a2e2-a0f701fff8f7"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82"
@@ -932,6 +937,25 @@
           "date": "",
           "place": "",
           "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876"
+        }
+      ],
+      "id": "I32*008feefa-2156-4f61-a2e2-a0f701fff8f7",
+      "names": [
+        {
+          "value": "AMA SONGKITON (O.BISUK) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
