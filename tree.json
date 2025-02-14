@@ -739,6 +739,9 @@
         },
         {
           "ref": "I106*ab3011b1-dffd-4233-a96f-73de2658d98a"
+        },
+        {
+          "ref": "I107*756560d1-b444-4cc1-974c-30b85af008b9"
         }
       ],
       "husbandRefs": [
@@ -3058,6 +3061,25 @@
       "names": [
         {
           "value": "MEYRIFA CHRISTINA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F41*ad6907cd-6ad1-49e6-a39b-dfa165f52435"
+        }
+      ],
+      "id": "I107*756560d1-b444-4cc1-974c-30b85af008b9",
+      "names": [
+        {
+          "value": "FRISCA ELISABET //"
         }
       ],
       "eventsFacts": [
