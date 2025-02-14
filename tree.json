@@ -369,6 +369,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I54*8d207988-92c3-41b1-98bb-2c80b28a2989"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I50*b9494649-fa95-429e-9192-229e689cee20"
@@ -1610,6 +1615,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
+        }
+      ],
+      "id": "I54*8d207988-92c3-41b1-98bb-2c80b28a2989",
+      "names": [
+        {
+          "value": "AMA WESLEY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
