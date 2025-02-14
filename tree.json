@@ -736,6 +736,9 @@
       "childRefs": [
         {
           "ref": "I105*c1810d63-0783-48cc-9e8c-16213c58dce1"
+        },
+        {
+          "ref": "I106*ab3011b1-dffd-4233-a96f-73de2658d98a"
         }
       ],
       "husbandRefs": [
@@ -3042,6 +3045,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F41*ad6907cd-6ad1-49e6-a39b-dfa165f52435"
+        }
+      ],
+      "id": "I106*ab3011b1-dffd-4233-a96f-73de2658d98a",
+      "names": [
+        {
+          "value": "MEYRIFA CHRISTINA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
