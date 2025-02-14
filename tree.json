@@ -715,6 +715,9 @@
         },
         {
           "ref": "I102*a117bed6-16c6-4b49-99b0-99c339367abe"
+        },
+        {
+          "ref": "I103*8d51d252-d733-41ba-a77a-40578929ce6d"
         }
       ],
       "husbandRefs": [
@@ -2959,6 +2962,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F40*6e0f1703-9ddb-4308-a55e-a895fe7aee8e"
+        }
+      ],
+      "id": "I103*8d51d252-d733-41ba-a77a-40578929ce6d",
+      "names": [
+        {
+          "value": "ALFREDO //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
