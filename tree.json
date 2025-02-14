@@ -473,13 +473,18 @@
       "id": "I14*af6f535f-3678-4cd0-b3ac-27f643456638",
       "names": [
         {
-          "value": "Apparukkat //"
+          "value": "APPARUKKAT //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
