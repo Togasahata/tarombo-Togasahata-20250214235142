@@ -338,6 +338,9 @@
       "childRefs": [
         {
           "ref": "I50*b9494649-fa95-429e-9192-229e689cee20"
+        },
+        {
+          "ref": "I52*20cc46ed-8323-452c-ba3a-5b1183145e89"
         }
       ],
       "husbandRefs": [
@@ -1551,6 +1554,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*54dffc1c-a1e0-40fc-b52b-079a25a76534"
+        }
+      ],
+      "id": "I52*20cc46ed-8323-452c-ba3a-5b1183145e89",
+      "names": [
+        {
+          "value": "AMA CANDRA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
