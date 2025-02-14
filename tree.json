@@ -159,6 +159,9 @@
         },
         {
           "ref": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82"
+        },
+        {
+          "ref": "I30*2dfa06df-e5c8-42aa-8ae0-900b1335e400"
         }
       ],
       "husbandRefs": [
@@ -883,6 +886,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*3bfe4fc2-a540-4955-9c92-e13448e6a791"
+        }
+      ],
+      "id": "I30*2dfa06df-e5c8-42aa-8ae0-900b1335e400",
+      "names": [
+        {
+          "value": "RAJA OPPU SUGAR //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
