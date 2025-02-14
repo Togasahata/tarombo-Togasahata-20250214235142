@@ -499,11 +499,7 @@
       ]
     },
     {
-      "husbandRefs": [
-        {
-          "ref": "I70*00851229-98fd-4c32-926e-79d6a1a0f065"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F30*7ac06e08-6307-45c2-9caf-dec457aaacc0",
       "wifeRefs": [
         {
@@ -2301,25 +2297,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F30*7ac06e08-6307-45c2-9caf-dec457aaacc0"
-        }
-      ],
-      "id": "I70*00851229-98fd-4c32-926e-79d6a1a0f065",
-      "names": [
-        {
-          "value": "SIAHAAN //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
