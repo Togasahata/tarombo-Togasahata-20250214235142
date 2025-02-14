@@ -128,6 +128,9 @@
       "childRefs": [
         {
           "ref": "I20*36505daf-69c6-4988-ac01-0ddf3f23e412"
+        },
+        {
+          "ref": "I21*a4d7b4f1-1978-46a9-a4fb-752bcffed269"
         }
       ],
       "husbandRefs": [
@@ -636,6 +639,25 @@
       "names": [
         {
           "value": "OPPU RUMAGAJA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*8df72b63-9d73-4efb-99ad-086e06250651"
+        }
+      ],
+      "id": "I21*a4d7b4f1-1978-46a9-a4fb-752bcffed269",
+      "names": [
+        {
+          "value": "APPAMAHAR //"
         }
       ],
       "eventsFacts": [
