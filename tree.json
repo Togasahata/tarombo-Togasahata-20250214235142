@@ -766,6 +766,9 @@
       "childRefs": [
         {
           "ref": "I110*4126b4e6-5a17-4301-be12-1257c6f024a4"
+        },
+        {
+          "ref": "I112*e8793719-b636-47dc-b2b4-478190336877"
         }
       ],
       "husbandRefs": [
@@ -3185,6 +3188,25 @@
       "names": [
         {
           "value": "Br. SIAGIAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F42*31bbd352-2a57-4634-992b-8d56859c1720"
+        }
+      ],
+      "id": "I112*e8793719-b636-47dc-b2b4-478190336877",
+      "names": [
+        {
+          "value": "DINDA //"
         }
       ],
       "eventsFacts": [
