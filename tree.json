@@ -461,6 +461,19 @@
           "ref": "I63*6842a7d9-9b27-4861-bb65-58a49801d842"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I61*af7176e4-e01c-4e05-8be7-bb2eb3a95fb2"
+        }
+      ],
+      "id": "F27*12f80641-bf41-403b-96e7-92d9ce484840",
+      "wifeRefs": [
+        {
+          "ref": "I64*28650867-cd26-4b7e-b00a-2a265299f6d1"
+        }
+      ]
     }
   ],
   "head": {
@@ -1835,6 +1848,11 @@
           "ref": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb"
         }
       ],
+      "fams": [
+        {
+          "ref": "F27*12f80641-bf41-403b-96e7-92d9ce484840"
+        }
+      ],
       "id": "I61*af7176e4-e01c-4e05-8be7-bb2eb3a95fb2",
       "names": [
         {
@@ -1877,6 +1895,25 @@
       "names": [
         {
           "value": "Br. TURNIP //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F27*12f80641-bf41-403b-96e7-92d9ce484840"
+        }
+      ],
+      "id": "I64*28650867-cd26-4b7e-b00a-2a265299f6d1",
+      "names": [
+        {
+          "value": "Br. HUTABARAT //"
         }
       ],
       "eventsFacts": [
