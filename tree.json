@@ -742,6 +742,9 @@
         },
         {
           "ref": "I107*756560d1-b444-4cc1-974c-30b85af008b9"
+        },
+        {
+          "ref": "I108*29c88101-618b-4fcf-86f8-08996258dbf1"
         }
       ],
       "husbandRefs": [
@@ -3086,6 +3089,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F41*ad6907cd-6ad1-49e6-a39b-dfa165f52435"
+        }
+      ],
+      "id": "I108*29c88101-618b-4fcf-86f8-08996258dbf1",
+      "names": [
+        {
+          "value": "ROBBY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
