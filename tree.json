@@ -695,7 +695,12 @@
           "ref": "I86*98276e2d-459d-4675-b1d4-c9800cba65dd"
         }
       ],
-      "id": "F39*108aea8d-3e50-426f-b0df-54bbe504490a"
+      "id": "F39*108aea8d-3e50-426f-b0df-54bbe504490a",
+      "wifeRefs": [
+        {
+          "ref": "I97*543782a9-7262-4b8d-9631-0ca02c2538f9"
+        }
+      ]
     }
   ],
   "head": {
@@ -2808,6 +2813,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F39*108aea8d-3e50-426f-b0df-54bbe504490a"
+        }
+      ],
+      "id": "I97*543782a9-7262-4b8d-9631-0ca02c2538f9",
+      "names": [
+        {
+          "value": "Br. MARBUN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
