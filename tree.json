@@ -372,13 +372,18 @@
       "id": "I10*f41426de-3acf-49bb-8d15-330291e75382",
       "names": [
         {
-          "value": "Oppu Somanimbil II //"
+          "value": "OPPU SOMANIMBIL II //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
