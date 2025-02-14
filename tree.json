@@ -478,15 +478,11 @@
       ],
       "eventsFacts": [
         {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
+          "tag": "_PRIV",
+          "value": ""
         }
-      ]
+      ],
+      "media": []
     },
     {
       "famc": [
@@ -497,13 +493,18 @@
       "id": "I15*f92c7f10-b1eb-4763-9fed-b634c58d5135",
       "names": [
         {
-          "value": "Oppu Pulo Nagodang //"
+          "value": "OPPU PULO NAGODANG //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
