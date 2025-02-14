@@ -709,6 +709,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I101*86d0e8dc-591b-44a2-a882-43d8886034d0"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I85*67bd864e-4060-4658-bbde-490fc1264b6e"
@@ -2907,6 +2912,25 @@
       "names": [
         {
           "value": "Br. SURBAKTI //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F40*6e0f1703-9ddb-4308-a55e-a895fe7aee8e"
+        }
+      ],
+      "id": "I101*86d0e8dc-591b-44a2-a882-43d8886034d0",
+      "names": [
+        {
+          "value": "REMALYA //"
         }
       ],
       "eventsFacts": [
