@@ -578,6 +578,9 @@
       "childRefs": [
         {
           "ref": "I79*395e5f4a-a013-41a4-b59a-f5d0d4d21dcc"
+        },
+        {
+          "ref": "I80*312ebb62-17f9-4f5d-b395-b09ba673558b"
         }
       ],
       "husbandRefs": [
@@ -2349,6 +2352,25 @@
       "names": [
         {
           "value": "AMA ROLEKSON //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F34*c9f64e7c-2e89-462e-8c79-749737b0cd2c"
+        }
+      ],
+      "id": "I80*312ebb62-17f9-4f5d-b395-b09ba673558b",
+      "names": [
+        {
+          "value": "AMA BERLIANA //"
         }
       ],
       "eventsFacts": [
