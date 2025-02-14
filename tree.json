@@ -691,6 +691,9 @@
         },
         {
           "ref": "I98*f18fcde5-c835-4770-9896-883dbcfaa3db"
+        },
+        {
+          "ref": "I99*3cc39e63-0254-4a2a-9759-52a17f85d77a"
         }
       ],
       "husbandRefs": [
@@ -2848,6 +2851,25 @@
       "names": [
         {
           "value": "MELANY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F39*108aea8d-3e50-426f-b0df-54bbe504490a"
+        }
+      ],
+      "id": "I99*3cc39e63-0254-4a2a-9759-52a17f85d77a",
+      "names": [
+        {
+          "value": "MELISSA //"
         }
       ],
       "eventsFacts": [
