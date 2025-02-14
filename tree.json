@@ -659,6 +659,19 @@
           "ref": "I88*6e841e62-980a-43dd-b16f-f11113d7f095"
         }
       ]
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I92*f1c12139-0e12-46db-90aa-8fd9160ae206"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I87*3cdb9356-a053-407b-9db3-340b6ccd2896"
+        }
+      ],
+      "id": "F38*8740e22b-d6be-4b14-8519-7b37a18e532c"
     }
   ],
   "head": {
@@ -2570,6 +2583,11 @@
           "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
         }
       ],
+      "fams": [
+        {
+          "ref": "F38*8740e22b-d6be-4b14-8519-7b37a18e532c"
+        }
+      ],
       "id": "I87*3cdb9356-a053-407b-9db3-340b6ccd2896",
       "names": [
         {
@@ -2660,6 +2678,25 @@
       "names": [
         {
           "value": "PANJAITAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F38*8740e22b-d6be-4b14-8519-7b37a18e532c"
+        }
+      ],
+      "id": "I92*f1c12139-0e12-46db-90aa-8fd9160ae206",
+      "names": [
+        {
+          "value": "LEMUEL TIMOTHY //"
         }
       ],
       "eventsFacts": [
