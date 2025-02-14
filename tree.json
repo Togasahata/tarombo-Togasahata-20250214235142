@@ -181,6 +181,9 @@
         },
         {
           "ref": "I34*22d6d92a-c4ed-4df1-a88e-ff6770470943"
+        },
+        {
+          "ref": "I36*51059bb4-52c0-4b42-acf7-f9bdb344351f"
         }
       ],
       "husbandRefs": [
@@ -1052,6 +1055,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876"
+        }
+      ],
+      "id": "I36*51059bb4-52c0-4b42-acf7-f9bdb344351f",
+      "names": [
+        {
+          "value": "AMA DUA (O.JONGGA) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
