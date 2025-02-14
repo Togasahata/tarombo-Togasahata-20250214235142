@@ -134,6 +134,9 @@
         },
         {
           "ref": "I22*5ce1d300-be32-477b-9a9e-07dbec7f3890"
+        },
+        {
+          "ref": "I23*21c9c024-426a-4492-bd74-5b105e375193"
         }
       ],
       "husbandRefs": [
@@ -680,6 +683,25 @@
       "names": [
         {
           "value": "APPANGARIAAN II //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*8df72b63-9d73-4efb-99ad-086e06250651"
+        }
+      ],
+      "id": "I23*21c9c024-426a-4492-bd74-5b105e375193",
+      "names": [
+        {
+          "value": "OPPU SINDA //"
         }
       ],
       "eventsFacts": [
