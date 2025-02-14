@@ -335,6 +335,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I50*b9494649-fa95-429e-9192-229e689cee20"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I46*a70fd6f7-b556-4ee7-aa42-3000acfbd4ad"
@@ -1490,6 +1495,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F20*54dffc1c-a1e0-40fc-b52b-079a25a76534"
+        }
+      ],
+      "id": "I50*b9494649-fa95-429e-9192-229e689cee20",
+      "names": [
+        {
+          "value": "AMA SONDANG (O.WESLEY) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
