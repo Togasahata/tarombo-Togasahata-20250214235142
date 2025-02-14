@@ -605,6 +605,9 @@
         },
         {
           "ref": "I84*37810d0a-5c06-4135-b68c-7a66fef18fc0"
+        },
+        {
+          "ref": "I85*67bd864e-4060-4658-bbde-490fc1264b6e"
         }
       ],
       "husbandRefs": [
@@ -2476,6 +2479,25 @@
       "names": [
         {
           "value": "AMA CHRISTIAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
+        }
+      ],
+      "id": "I85*67bd864e-4060-4658-bbde-490fc1264b6e",
+      "names": [
+        {
+          "value": "AMA REMALIA //"
         }
       ],
       "eventsFacts": [
