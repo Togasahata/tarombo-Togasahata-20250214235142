@@ -212,6 +212,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I38*5594956e-ff00-4325-b82a-4a32132aeb1d"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I32*008feefa-2156-4f61-a2e2-a0f701fff8f7"
@@ -1111,6 +1116,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*2aed0cf3-f2f0-4950-83d7-e8b39c59155c"
+        }
+      ],
+      "id": "I38*5594956e-ff00-4325-b82a-4a32132aeb1d",
+      "names": [
+        {
+          "value": "AMA SONGKITON //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
