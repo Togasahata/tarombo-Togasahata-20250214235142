@@ -920,13 +920,18 @@
       "id": "I31*7878e58f-4918-49cb-9235-7e459b7973ec",
       "names": [
         {
-          "value": "RAJA OPPU NIUNJUR //"
+          "value": "RAJA OPPU UNJUR //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     }
