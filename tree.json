@@ -608,6 +608,9 @@
         },
         {
           "ref": "I85*67bd864e-4060-4658-bbde-490fc1264b6e"
+        },
+        {
+          "ref": "I86*98276e2d-459d-4675-b1d4-c9800cba65dd"
         }
       ],
       "husbandRefs": [
@@ -2498,6 +2501,25 @@
       "names": [
         {
           "value": "AMA REMALIA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
+        }
+      ],
+      "id": "I86*98276e2d-459d-4675-b1d4-c9800cba65dd",
+      "names": [
+        {
+          "value": "AMA JHONES //"
         }
       ],
       "eventsFacts": [
