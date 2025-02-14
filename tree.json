@@ -499,11 +499,7 @@
       ]
     },
     {
-      "husbandRefs": [
-        {
-          "ref": "I72*c94e9721-b51d-4d25-ac3f-2c1219885464"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F31*250390c5-d660-46ad-8d68-5e8922c629b7",
       "wifeRefs": [
         {
@@ -2308,25 +2304,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F31*250390c5-d660-46ad-8d68-5e8922c629b7"
-        }
-      ],
-      "id": "I72*c94e9721-b51d-4d25-ac3f-2c1219885464",
-      "names": [
-        {
-          "value": "SIANTURI //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
