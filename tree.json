@@ -688,6 +688,9 @@
       "childRefs": [
         {
           "ref": "I96*d0f01b8d-415e-4c84-b55c-bcd1b8f9740d"
+        },
+        {
+          "ref": "I98*f18fcde5-c835-4770-9896-883dbcfaa3db"
         }
       ],
       "husbandRefs": [
@@ -2826,6 +2829,25 @@
       "names": [
         {
           "value": "Br. MARBUN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F39*108aea8d-3e50-426f-b0df-54bbe504490a"
+        }
+      ],
+      "id": "I98*f18fcde5-c835-4770-9896-883dbcfaa3db",
+      "names": [
+        {
+          "value": "MELANY //"
         }
       ],
       "eventsFacts": [
