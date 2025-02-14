@@ -648,11 +648,7 @@
       ]
     },
     {
-      "husbandRefs": [
-        {
-          "ref": "I91*84a52745-66e8-455e-9d44-48edd99c8626"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F37*e7b79b83-11db-4d9d-8d37-467b225bc1c5",
       "wifeRefs": [
         {
@@ -2792,25 +2788,6 @@
       "names": [
         {
           "value": "LIMBONG //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F37*e7b79b83-11db-4d9d-8d37-467b225bc1c5"
-        }
-      ],
-      "id": "I91*84a52745-66e8-455e-9d44-48edd99c8626",
-      "names": [
-        {
-          "value": "PANJAITAN //"
         }
       ],
       "eventsFacts": [
