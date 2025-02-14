@@ -215,6 +215,9 @@
       "childRefs": [
         {
           "ref": "I38*5594956e-ff00-4325-b82a-4a32132aeb1d"
+        },
+        {
+          "ref": "I42*2a41b083-87bd-4b4e-9b90-ce30b9f10a01"
         }
       ],
       "husbandRefs": [
@@ -1247,6 +1250,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F12*2aed0cf3-f2f0-4950-83d7-e8b39c59155c"
+        }
+      ],
+      "id": "I42*2a41b083-87bd-4b4e-9b90-ce30b9f10a01",
+      "names": [
+        {
+          "value": "AMA DELENA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
