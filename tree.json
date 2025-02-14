@@ -1,0 +1,505 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*cd5aa4af-114e-4d71-b8f9-dafd238ebca7"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*b1ca7beb-9fd1-49d1-8472-4462cef9d0b9"
+        }
+      ],
+      "id": "F1*8d637c90-007d-440f-a38e-740da79f8ec8"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I3*0da17407-4b6b-4626-9dce-312cd724ae12"
+        },
+        {
+          "ref": "I4*ec136060-dfa4-44a3-9b71-4e2ce960c906"
+        },
+        {
+          "ref": "I5*9b43d3cb-71c5-424e-9c71-0cb9f4f3c4eb"
+        },
+        {
+          "ref": "I6*c72cb623-8fcc-4820-82be-15f809495732"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I2*cd5aa4af-114e-4d71-b8f9-dafd238ebca7"
+        }
+      ],
+      "id": "F2*f63e9a2b-5853-4bf5-a608-10de6ec677f4"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I7*ed95f9b1-71ae-4278-9038-034ab4c6f274"
+        },
+        {
+          "ref": "I8*78a1147f-d485-42ac-83d2-881fc597a235"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I4*ec136060-dfa4-44a3-9b71-4e2ce960c906"
+        }
+      ],
+      "id": "F3*1ee1e890-2c9c-4674-a39e-1e0c36226c22"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I9*61a081c9-5801-4df7-8693-771b081052f3"
+        },
+        {
+          "ref": "I10*f41426de-3acf-49bb-8d15-330291e75382"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I7*ed95f9b1-71ae-4278-9038-034ab4c6f274"
+        }
+      ],
+      "id": "F4*19f08a04-b25d-4bfc-b32a-72ec81d64fcb"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I11*6f1fb9a8-690f-4ab9-ad48-2e655e30c3b8"
+        },
+        {
+          "ref": "I12*24588ef7-a4e6-4b36-8ac7-83b066808f94"
+        },
+        {
+          "ref": "I13*dfa9d4fd-bc9d-4ed1-ba25-55ea72b4020a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I9*61a081c9-5801-4df7-8693-771b081052f3"
+        }
+      ],
+      "id": "F5*0323989b-5a34-446a-9d13-8ecdc5e89887"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I14*af6f535f-3678-4cd0-b3ac-27f643456638"
+        },
+        {
+          "ref": "I15*f92c7f10-b1eb-4763-9fed-b634c58d5135"
+        },
+        {
+          "ref": "I16*1e040cda-5fa0-4bd7-af1f-6407a42c6b3a"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I11*6f1fb9a8-690f-4ab9-ad48-2e655e30c3b8"
+        }
+      ],
+      "id": "F6*2889fdad-9890-47e3-8bee-aa27431d6620"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "23:38:55",
+      "value": "14 FEB 2025"
+    },
+    "file": "1.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Indonesian",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.5 (0b354a0)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*8d637c90-007d-440f-a38e-740da79f8ec8"
+        }
+      ],
+      "id": "I1*b1ca7beb-9fd1-49d1-8472-4462cef9d0b9",
+      "names": [
+        {
+          "value": "TOGA SAHATA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*8d637c90-007d-440f-a38e-740da79f8ec8"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F2*f63e9a2b-5853-4bf5-a608-10de6ec677f4"
+        }
+      ],
+      "id": "I2*cd5aa4af-114e-4d71-b8f9-dafd238ebca7",
+      "names": [
+        {
+          "value": "BALANGA BOSI (O. SOMANIMBIL) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*f63e9a2b-5853-4bf5-a608-10de6ec677f4"
+        }
+      ],
+      "id": "I3*0da17407-4b6b-4626-9dce-312cd724ae12",
+      "names": [
+        {
+          "value": "RAJA APPA MAKSA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*f63e9a2b-5853-4bf5-a608-10de6ec677f4"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F3*1ee1e890-2c9c-4674-a39e-1e0c36226c22"
+        }
+      ],
+      "id": "I4*ec136060-dfa4-44a3-9b71-4e2ce960c906",
+      "names": [
+        {
+          "value": "RAJA AMANI PARULAS //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*f63e9a2b-5853-4bf5-a608-10de6ec677f4"
+        }
+      ],
+      "id": "I5*9b43d3cb-71c5-424e-9c71-0cb9f4f3c4eb",
+      "names": [
+        {
+          "value": "RAJA OPPU RONGGUR //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F2*f63e9a2b-5853-4bf5-a608-10de6ec677f4"
+        }
+      ],
+      "id": "I6*c72cb623-8fcc-4820-82be-15f809495732",
+      "names": [
+        {
+          "value": "RAJA MOBA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*1ee1e890-2c9c-4674-a39e-1e0c36226c22"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F4*19f08a04-b25d-4bfc-b32a-72ec81d64fcb"
+        }
+      ],
+      "id": "I7*ed95f9b1-71ae-4278-9038-034ab4c6f274",
+      "names": [
+        {
+          "value": "OPPU BOHIK HUNDA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F3*1ee1e890-2c9c-4674-a39e-1e0c36226c22"
+        }
+      ],
+      "id": "I8*78a1147f-d485-42ac-83d2-881fc597a235",
+      "names": [
+        {
+          "value": "OPPU BATU GURU //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*19f08a04-b25d-4bfc-b32a-72ec81d64fcb"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F5*0323989b-5a34-446a-9d13-8ecdc5e89887"
+        }
+      ],
+      "id": "I9*61a081c9-5801-4df7-8693-771b081052f3",
+      "names": [
+        {
+          "value": "RAJA APPANGARISAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F4*19f08a04-b25d-4bfc-b32a-72ec81d64fcb"
+        }
+      ],
+      "id": "I10*f41426de-3acf-49bb-8d15-330291e75382",
+      "names": [
+        {
+          "value": "Oppu Somanimbil II //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*0323989b-5a34-446a-9d13-8ecdc5e89887"
+        }
+      ],
+      "fams": [
+        {
+          "ref": "F6*2889fdad-9890-47e3-8bee-aa27431d6620"
+        }
+      ],
+      "id": "I11*6f1fb9a8-690f-4ab9-ad48-2e655e30c3b8",
+      "names": [
+        {
+          "value": "Amani Mangarisan //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*0323989b-5a34-446a-9d13-8ecdc5e89887"
+        }
+      ],
+      "id": "I12*24588ef7-a4e6-4b36-8ac7-83b066808f94",
+      "names": [
+        {
+          "value": "Oppu Sangangna //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F5*0323989b-5a34-446a-9d13-8ecdc5e89887"
+        }
+      ],
+      "id": "I13*dfa9d4fd-bc9d-4ed1-ba25-55ea72b4020a",
+      "names": [
+        {
+          "value": "Appatulla //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2889fdad-9890-47e3-8bee-aa27431d6620"
+        }
+      ],
+      "id": "I14*af6f535f-3678-4cd0-b3ac-27f643456638",
+      "names": [
+        {
+          "value": "Apparukkat //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2889fdad-9890-47e3-8bee-aa27431d6620"
+        }
+      ],
+      "id": "I15*f92c7f10-b1eb-4763-9fed-b634c58d5135",
+      "names": [
+        {
+          "value": "Oppu Pulo Nagodang //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F6*2889fdad-9890-47e3-8bee-aa27431d6620"
+        }
+      ],
+      "id": "I16*1e040cda-5fa0-4bd7-af1f-6407a42c6b3a",
+      "names": [
+        {
+          "value": "BATTA RAJA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}
