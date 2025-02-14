@@ -384,6 +384,9 @@
         },
         {
           "ref": "I69*3bd7baf6-4f0e-4380-9a32-20c653196b8a"
+        },
+        {
+          "ref": "I71*ebf6ca87-7b09-4896-8ac5-51e7ab46ede3"
         }
       ],
       "husbandRefs": [
@@ -2097,6 +2100,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
+        }
+      ],
+      "id": "I71*ebf6ca87-7b09-4896-8ac5-51e7ab46ede3",
+      "names": [
+        {
+          "value": "YOSEVA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
