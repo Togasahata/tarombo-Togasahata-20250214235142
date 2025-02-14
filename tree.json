@@ -599,6 +599,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I83*4a7c0d5c-b4a5-41f6-ad11-a98e445188b6"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I81*8b95dba3-b749-4e2c-ac4b-b8ce44601270"
@@ -2436,6 +2441,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
+        }
+      ],
+      "id": "I83*4a7c0d5c-b4a5-41f6-ad11-a98e445188b6",
+      "names": [
+        {
+          "value": "AYA YOGI //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
