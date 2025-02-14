@@ -493,6 +493,19 @@
           "ref": "I65*ad261de8-fb15-4959-a504-950336552ba0"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I68*cdc4e8da-14e6-4dcf-bb7e-5f465f42145d"
+        }
+      ],
+      "id": "F29*0acb8172-acf2-40a2-b907-d1c3e0f5b8ac",
+      "wifeRefs": [
+        {
+          "ref": "I67*788ae106-3d4b-40db-b634-b52edff9e76e"
+        }
+      ]
     }
   ],
   "head": {
@@ -1991,6 +2004,11 @@
           "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
         }
       ],
+      "fams": [
+        {
+          "ref": "F29*0acb8172-acf2-40a2-b907-d1c3e0f5b8ac"
+        }
+      ],
       "id": "I67*788ae106-3d4b-40db-b634-b52edff9e76e",
       "names": [
         {
@@ -2001,6 +2019,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F29*0acb8172-acf2-40a2-b907-d1c3e0f5b8ac"
+        }
+      ],
+      "id": "I68*cdc4e8da-14e6-4dcf-bb7e-5f465f42145d",
+      "names": [
+        {
+          "value": "PASARIBU //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
