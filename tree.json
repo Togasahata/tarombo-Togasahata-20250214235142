@@ -664,6 +664,9 @@
       "childRefs": [
         {
           "ref": "I92*f1c12139-0e12-46db-90aa-8fd9160ae206"
+        },
+        {
+          "ref": "I93*d2f41895-5309-4509-9441-12fb0d5585eb"
         }
       ],
       "husbandRefs": [
@@ -2697,6 +2700,25 @@
       "names": [
         {
           "value": "LEMUEL TIMOTHY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F38*8740e22b-d6be-4b14-8519-7b37a18e532c"
+        }
+      ],
+      "id": "I93*d2f41895-5309-4509-9441-12fb0d5585eb",
+      "names": [
+        {
+          "value": "MIKHAEL RAFANDRA //"
         }
       ],
       "eventsFacts": [
