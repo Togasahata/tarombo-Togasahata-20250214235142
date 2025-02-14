@@ -178,6 +178,9 @@
       "childRefs": [
         {
           "ref": "I32*008feefa-2156-4f61-a2e2-a0f701fff8f7"
+        },
+        {
+          "ref": "I34*22d6d92a-c4ed-4df1-a88e-ff6770470943"
         }
       ],
       "husbandRefs": [
@@ -993,6 +996,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876"
+        }
+      ],
+      "id": "I34*22d6d92a-c4ed-4df1-a88e-ff6770470943",
+      "names": [
+        {
+          "value": "AMA SOGIT (O.MANGANDER) //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
