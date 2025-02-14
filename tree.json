@@ -667,6 +667,9 @@
         },
         {
           "ref": "I93*d2f41895-5309-4509-9441-12fb0d5585eb"
+        },
+        {
+          "ref": "I94*9a5ad1f8-ceb8-4f03-87a9-223b5974baec"
         }
       ],
       "husbandRefs": [
@@ -2719,6 +2722,25 @@
       "names": [
         {
           "value": "MIKHAEL RAFANDRA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F38*8740e22b-d6be-4b14-8519-7b37a18e532c"
+        }
+      ],
+      "id": "I94*9a5ad1f8-ceb8-4f03-87a9-223b5974baec",
+      "names": [
+        {
+          "value": "JORDAN ELEAZAR //"
         }
       ],
       "eventsFacts": [
