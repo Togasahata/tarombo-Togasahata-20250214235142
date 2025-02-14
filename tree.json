@@ -109,6 +109,9 @@
       "childRefs": [
         {
           "ref": "I17*bd4f3a76-796b-4bde-89a1-edc5d6ef166a"
+        },
+        {
+          "ref": "I18*59a6be47-3f17-45b7-a35b-c7912f20f38e"
         }
       ],
       "husbandRefs": [
@@ -555,6 +558,25 @@
       "names": [
         {
           "value": "GURU MANGARAJA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F7*5ec4dd9f-fc0a-4daa-bb20-c05a7a44406c"
+        }
+      ],
+      "id": "I18*59a6be47-3f17-45b7-a35b-c7912f20f38e",
+      "names": [
+        {
+          "value": "OPPU BAHAL GAJA //"
         }
       ],
       "eventsFacts": [
