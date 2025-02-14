@@ -602,6 +602,9 @@
       "childRefs": [
         {
           "ref": "I83*4a7c0d5c-b4a5-41f6-ad11-a98e445188b6"
+        },
+        {
+          "ref": "I84*37810d0a-5c06-4135-b68c-7a66fef18fc0"
         }
       ],
       "husbandRefs": [
@@ -2454,6 +2457,25 @@
       "names": [
         {
           "value": "AYA YOGI //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
+        }
+      ],
+      "id": "I84*37810d0a-5c06-4135-b68c-7a66fef18fc0",
+      "names": [
+        {
+          "value": "AMA CHRISTIAN //"
         }
       ],
       "eventsFacts": [
