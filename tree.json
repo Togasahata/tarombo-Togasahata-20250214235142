@@ -614,6 +614,9 @@
         },
         {
           "ref": "I87*3cdb9356-a053-407b-9db3-340b6ccd2896"
+        },
+        {
+          "ref": "I88*6e841e62-980a-43dd-b16f-f11113d7f095"
         }
       ],
       "husbandRefs": [
@@ -2548,6 +2551,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F35*c4b1c1c5-364e-4677-9d92-01ead3763de7"
+        }
+      ],
+      "id": "I88*6e841e62-980a-43dd-b16f-f11113d7f095",
+      "names": [
+        {
+          "value": "NAI IVAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
