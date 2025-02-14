@@ -733,6 +733,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I105*c1810d63-0783-48cc-9e8c-16213c58dce1"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I84*37810d0a-5c06-4135-b68c-7a66fef18fc0"
@@ -3018,6 +3023,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F41*ad6907cd-6ad1-49e6-a39b-dfa165f52435"
+        }
+      ],
+      "id": "I105*c1810d63-0783-48cc-9e8c-16213c58dce1",
+      "names": [
+        {
+          "value": "JANUAR CHRISTIAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
