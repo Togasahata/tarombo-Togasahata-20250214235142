@@ -372,6 +372,9 @@
       "childRefs": [
         {
           "ref": "I54*8d207988-92c3-41b1-98bb-2c80b28a2989"
+        },
+        {
+          "ref": "I56*dc115677-f531-4cc3-ab3a-1493287f16b9"
         }
       ],
       "husbandRefs": [
@@ -1671,6 +1674,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
+        }
+      ],
+      "id": "I56*dc115677-f531-4cc3-ab3a-1493287f16b9",
+      "names": [
+        {
+          "value": "AMA WENDY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
