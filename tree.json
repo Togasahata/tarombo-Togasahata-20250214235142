@@ -112,6 +112,9 @@
         },
         {
           "ref": "I18*59a6be47-3f17-45b7-a35b-c7912f20f38e"
+        },
+        {
+          "ref": "I19*c65588b6-23b2-4e49-8504-7811a60d86ad"
         }
       ],
       "husbandRefs": [
@@ -577,6 +580,25 @@
       "names": [
         {
           "value": "OPPU BAHAL GAJA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F7*5ec4dd9f-fc0a-4daa-bb20-c05a7a44406c"
+        }
+      ],
+      "id": "I19*c65588b6-23b2-4e49-8504-7811a60d86ad",
+      "names": [
+        {
+          "value": "OPPU BUNTULAN //"
         }
       ],
       "eventsFacts": [
