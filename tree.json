@@ -328,6 +328,19 @@
           "ref": "I45*d85f16f6-ea5f-4c15-b373-0c8ca50f4058"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I46*a70fd6f7-b556-4ee7-aa42-3000acfbd4ad"
+        }
+      ],
+      "id": "F20*54dffc1c-a1e0-40fc-b52b-079a25a76534",
+      "wifeRefs": [
+        {
+          "ref": "I47*0d763623-b573-471e-a131-b2c64e839121"
+        }
+      ]
     }
   ],
   "head": {
@@ -1377,6 +1390,11 @@
           "ref": "F12*2aed0cf3-f2f0-4950-83d7-e8b39c59155c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F20*54dffc1c-a1e0-40fc-b52b-079a25a76534"
+        }
+      ],
       "id": "I46*a70fd6f7-b556-4ee7-aa42-3000acfbd4ad",
       "names": [
         {
@@ -1387,6 +1405,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F20*54dffc1c-a1e0-40fc-b52b-079a25a76534"
+        }
+      ],
+      "id": "I47*0d763623-b573-471e-a131-b2c64e839121",
+      "names": [
+        {
+          "value": "Br. SIRAIT //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
