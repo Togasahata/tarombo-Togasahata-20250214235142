@@ -123,6 +123,19 @@
         }
       ],
       "id": "F7*5ec4dd9f-fc0a-4daa-bb20-c05a7a44406c"
+    },
+    {
+      "childRefs": [
+        {
+          "ref": "I20*36505daf-69c6-4988-ac01-0ddf3f23e412"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I19*c65588b6-23b2-4e49-8504-7811a60d86ad"
+        }
+      ],
+      "id": "F8*8df72b63-9d73-4efb-99ad-086e06250651"
     }
   ],
   "head": {
@@ -595,10 +608,34 @@
           "ref": "F7*5ec4dd9f-fc0a-4daa-bb20-c05a7a44406c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F8*8df72b63-9d73-4efb-99ad-086e06250651"
+        }
+      ],
       "id": "I19*c65588b6-23b2-4e49-8504-7811a60d86ad",
       "names": [
         {
           "value": "OPPU BUNTULAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F8*8df72b63-9d73-4efb-99ad-086e06250651"
+        }
+      ],
+      "id": "I20*36505daf-69c6-4988-ac01-0ddf3f23e412",
+      "names": [
+        {
+          "value": "OPPU RUMAGAJA //"
         }
       ],
       "eventsFacts": [
