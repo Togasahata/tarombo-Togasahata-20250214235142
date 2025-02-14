@@ -712,6 +712,9 @@
       "childRefs": [
         {
           "ref": "I101*86d0e8dc-591b-44a2-a882-43d8886034d0"
+        },
+        {
+          "ref": "I102*a117bed6-16c6-4b49-99b0-99c339367abe"
         }
       ],
       "husbandRefs": [
@@ -2931,6 +2934,25 @@
       "names": [
         {
           "value": "REMALYA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F40*6e0f1703-9ddb-4308-a55e-a895fe7aee8e"
+        }
+      ],
+      "id": "I102*a117bed6-16c6-4b49-99b0-99c339367abe",
+      "names": [
+        {
+          "value": "OLIVIA //"
         }
       ],
       "eventsFacts": [
