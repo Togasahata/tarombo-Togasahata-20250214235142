@@ -759,6 +759,19 @@
           "ref": "I67*788ae106-3d4b-40db-b634-b52edff9e76e"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I118*75ec0e2a-ea3e-46b4-9fdf-a6fe911c19c0"
+        }
+      ],
+      "id": "F46*b436e26f-921b-4a1f-a203-812cf6ff3180",
+      "wifeRefs": [
+        {
+          "ref": "I69*3bd7baf6-4f0e-4380-9a32-20c653196b8a"
+        }
+      ]
     }
   ],
   "head": {
@@ -2260,7 +2273,11 @@
           "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
         }
       ],
-      "fams": [],
+      "fams": [
+        {
+          "ref": "F46*b436e26f-921b-4a1f-a203-812cf6ff3180"
+        }
+      ],
       "id": "I69*3bd7baf6-4f0e-4380-9a32-20c653196b8a",
       "names": [
         {
@@ -3139,6 +3156,19 @@
       "names": [
         {
           "value": "PASARIBU //"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F46*b436e26f-921b-4a1f-a203-812cf6ff3180"
+        }
+      ],
+      "id": "I118*75ec0e2a-ea3e-46b4-9fdf-a6fe911c19c0",
+      "names": [
+        {
+          "value": "SIAHAAN //"
         }
       ]
     }
