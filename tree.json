@@ -153,6 +153,9 @@
       "childRefs": [
         {
           "ref": "I25*618ad764-5226-4362-a290-e94c7a8e658c"
+        },
+        {
+          "ref": "I26*4c6922ec-03b7-473d-b751-a7bd2aaebd01"
         }
       ],
       "husbandRefs": [
@@ -761,6 +764,25 @@
       "names": [
         {
           "value": "RAJA OPPU GOLASA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*3bfe4fc2-a540-4955-9c92-e13448e6a791"
+        }
+      ],
+      "id": "I26*4c6922ec-03b7-473d-b751-a7bd2aaebd01",
+      "names": [
+        {
+          "value": "RAJA OPPU SINOMBA //"
         }
       ],
       "eventsFacts": [
