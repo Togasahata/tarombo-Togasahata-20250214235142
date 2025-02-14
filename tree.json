@@ -393,6 +393,9 @@
       "childRefs": [
         {
           "ref": "I60*5ebd498a-d0aa-4c47-aca2-4822957fa3c2"
+        },
+        {
+          "ref": "I61*af7176e4-e01c-4e05-8be7-bb2eb3a95fb2"
         }
       ],
       "husbandRefs": [
@@ -1796,6 +1799,25 @@
       "names": [
         {
           "value": "CANDRA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb"
+        }
+      ],
+      "id": "I61*af7176e4-e01c-4e05-8be7-bb2eb3a95fb2",
+      "names": [
+        {
+          "value": "HAPOSAN //"
         }
       ],
       "eventsFacts": [
