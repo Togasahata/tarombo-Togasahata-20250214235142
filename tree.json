@@ -401,13 +401,18 @@
       "id": "I11*6f1fb9a8-690f-4ab9-ad48-2e655e30c3b8",
       "names": [
         {
-          "value": "Amani Mangarisan //"
+          "value": "AMANI MANGARISAN //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
