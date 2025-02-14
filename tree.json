@@ -366,7 +366,12 @@
           "ref": "I48*dd74b2c4-e5ce-4d18-8873-230d54b1d771"
         }
       ],
-      "id": "F21*0a988aa0-1d67-40eb-b338-c3d03cf64ce0"
+      "id": "F21*0a988aa0-1d67-40eb-b338-c3d03cf64ce0",
+      "wifeRefs": [
+        {
+          "ref": "I76*a4267ca9-9499-4454-bdcf-b63b2a242d48"
+        }
+      ]
     },
     {
       "childRefs": [
@@ -2243,6 +2248,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F21*0a988aa0-1d67-40eb-b338-c3d03cf64ce0"
+        }
+      ],
+      "id": "I76*a4267ca9-9499-4454-bdcf-b63b2a242d48",
+      "names": [
+        {
+          "value": "Br. PAKPAHAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
