@@ -396,6 +396,9 @@
         },
         {
           "ref": "I61*af7176e4-e01c-4e05-8be7-bb2eb3a95fb2"
+        },
+        {
+          "ref": "I62*56723af7-749f-452c-8a65-4adbdb53dc75"
         }
       ],
       "husbandRefs": [
@@ -1818,6 +1821,25 @@
       "names": [
         {
           "value": "HAPOSAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb"
+        }
+      ],
+      "id": "I62*56723af7-749f-452c-8a65-4adbdb53dc75",
+      "names": [
+        {
+          "value": "LAMBOK RAYMOND //"
         }
       ],
       "eventsFacts": [
