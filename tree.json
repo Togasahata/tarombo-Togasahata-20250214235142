@@ -499,11 +499,7 @@
       ]
     },
     {
-      "husbandRefs": [
-        {
-          "ref": "I66*fde5a81e-e09a-4e38-b466-d87aee19c13a"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F28*229e2082-770c-4fc2-9aea-c3f99490e1de",
       "wifeRefs": [
         {
@@ -2253,25 +2249,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F28*229e2082-770c-4fc2-9aea-c3f99490e1de"
-        }
-      ],
-      "id": "I66*fde5a81e-e09a-4e38-b466-d87aee19c13a",
-      "names": [
-        {
-          "value": "HUTAPEA //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
