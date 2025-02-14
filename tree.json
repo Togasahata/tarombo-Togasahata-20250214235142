@@ -573,6 +573,19 @@
           "ref": "I74*a8658414-a28c-446e-8097-90167c2be21f"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I77*e0a806a8-d90a-4f83-8c0c-b3281bd23635"
+        }
+      ],
+      "id": "F34*c9f64e7c-2e89-462e-8c79-749737b0cd2c",
+      "wifeRefs": [
+        {
+          "ref": "I78*f381adbe-e6d5-41b3-8668-7e7790ef62cf"
+        }
+      ]
     }
   ],
   "head": {
@@ -2279,6 +2292,11 @@
           "ref": "F15*0d552c04-25c8-4f6d-9e5c-573f5363ecd5"
         }
       ],
+      "fams": [
+        {
+          "ref": "F34*c9f64e7c-2e89-462e-8c79-749737b0cd2c"
+        }
+      ],
       "id": "I77*e0a806a8-d90a-4f83-8c0c-b3281bd23635",
       "names": [
         {
@@ -2294,6 +2312,25 @@
           "date": "",
           "place": "",
           "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F34*c9f64e7c-2e89-462e-8c79-749737b0cd2c"
+        }
+      ],
+      "id": "I78*f381adbe-e6d5-41b3-8668-7e7790ef62cf",
+      "names": [
+        {
+          "value": "Br. PAKPAHAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
