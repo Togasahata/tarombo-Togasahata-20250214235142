@@ -380,6 +380,19 @@
           "ref": "I51*0b04d085-5582-4862-9b57-ba84a5f2344f"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I52*20cc46ed-8323-452c-ba3a-5b1183145e89"
+        }
+      ],
+      "id": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb",
+      "wifeRefs": [
+        {
+          "ref": "I53*efc540fc-9bb7-410d-aa9a-74e30717daf0"
+        }
+      ]
     }
   ],
   "head": {
@@ -1563,6 +1576,11 @@
           "ref": "F20*54dffc1c-a1e0-40fc-b52b-079a25a76534"
         }
       ],
+      "fams": [
+        {
+          "ref": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb"
+        }
+      ],
       "id": "I52*20cc46ed-8323-452c-ba3a-5b1183145e89",
       "names": [
         {
@@ -1573,6 +1591,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb"
+        }
+      ],
+      "id": "I53*efc540fc-9bb7-410d-aa9a-74e30717daf0",
+      "names": [
+        {
+          "value": "Br. TAMBUNAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
