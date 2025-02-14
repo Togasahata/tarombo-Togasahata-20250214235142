@@ -180,6 +180,19 @@
           "ref": "I28*6527e5d4-9d9b-489b-80cd-07d0cd52bd3e"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82"
+        }
+      ],
+      "id": "F11*928fe2c9-0374-4d8f-87a0-e2c6ad45c825",
+      "wifeRefs": [
+        {
+          "ref": "I29*53bca5c5-db27-413e-9a03-2f052e70b15d"
+        }
+      ]
     }
   ],
   "head": {
@@ -817,6 +830,9 @@
       "fams": [
         {
           "ref": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876"
+        },
+        {
+          "ref": "F11*928fe2c9-0374-4d8f-87a0-e2c6ad45c825"
         }
       ],
       "id": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82",
@@ -842,6 +858,25 @@
       "names": [
         {
           "value": "Br. PAKPAHAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F11*928fe2c9-0374-4d8f-87a0-e2c6ad45c825"
+        }
+      ],
+      "id": "I29*53bca5c5-db27-413e-9a03-2f052e70b15d",
+      "names": [
+        {
+          "value": "Br. SIRINGO RINGO //"
         }
       ],
       "eventsFacts": [
