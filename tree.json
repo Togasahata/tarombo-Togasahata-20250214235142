@@ -167,6 +167,19 @@
         }
       ],
       "id": "F9*3bfe4fc2-a540-4955-9c92-e13448e6a791"
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82"
+        }
+      ],
+      "id": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876",
+      "wifeRefs": [
+        {
+          "ref": "I28*6527e5d4-9d9b-489b-80cd-07d0cd52bd3e"
+        }
+      ]
     }
   ],
   "head": {
@@ -801,6 +814,11 @@
           "ref": "F9*3bfe4fc2-a540-4955-9c92-e13448e6a791"
         }
       ],
+      "fams": [
+        {
+          "ref": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876"
+        }
+      ],
       "id": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82",
       "names": [
         {
@@ -811,6 +829,25 @@
         {
           "tag": "SEX",
           "value": "M"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F10*45f92c24-0658-47d3-b0ab-45b97e44c876"
+        }
+      ],
+      "id": "I28*6527e5d4-9d9b-489b-80cd-07d0cd52bd3e",
+      "names": [
+        {
+          "value": "Br. PAKPAHAN //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
