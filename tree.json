@@ -156,6 +156,9 @@
         },
         {
           "ref": "I26*4c6922ec-03b7-473d-b751-a7bd2aaebd01"
+        },
+        {
+          "ref": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82"
         }
       ],
       "husbandRefs": [
@@ -783,6 +786,25 @@
       "names": [
         {
           "value": "RAJA OPPU SINOMBA //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F9*3bfe4fc2-a540-4955-9c92-e13448e6a791"
+        }
+      ],
+      "id": "I27*9dae0dc6-75c5-44e0-8914-77a692ad5a82",
+      "names": [
+        {
+          "value": "RAJA OPPU SONGKITON //"
         }
       ],
       "eventsFacts": [
