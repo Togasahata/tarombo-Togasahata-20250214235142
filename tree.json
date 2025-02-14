@@ -425,13 +425,18 @@
       "id": "I12*24588ef7-a4e6-4b36-8ac7-83b066808f94",
       "names": [
         {
-          "value": "Oppu Sangangna //"
+          "value": "OPPU SANGANGNA //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
