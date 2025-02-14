@@ -390,6 +390,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I60*5ebd498a-d0aa-4c47-aca2-4822957fa3c2"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I52*20cc46ed-8323-452c-ba3a-5b1183145e89"
@@ -1772,6 +1777,25 @@
       "names": [
         {
           "value": "WENDY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F23*85bf56c7-cf28-4f93-a735-43577477a5cb"
+        }
+      ],
+      "id": "I60*5ebd498a-d0aa-4c47-aca2-4822957fa3c2",
+      "names": [
+        {
+          "value": "CANDRA //"
         }
       ],
       "eventsFacts": [
