@@ -268,6 +268,9 @@
       "childRefs": [
         {
           "ref": "I48*dd74b2c4-e5ce-4d18-8873-230d54b1d771"
+        },
+        {
+          "ref": "I77*e0a806a8-d90a-4f83-8c0c-b3281bd23635"
         }
       ],
       "husbandRefs": [
@@ -2267,6 +2270,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F15*0d552c04-25c8-4f6d-9e5c-573f5363ecd5"
+        }
+      ],
+      "id": "I77*e0a806a8-d90a-4f83-8c0c-b3281bd23635",
+      "names": [
+        {
+          "value": "AMA JABARIS //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
