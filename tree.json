@@ -375,6 +375,9 @@
         },
         {
           "ref": "I56*dc115677-f531-4cc3-ab3a-1493287f16b9"
+        },
+        {
+          "ref": "I65*ad261de8-fb15-4959-a504-950336552ba0"
         }
       ],
       "husbandRefs": [
@@ -1914,6 +1917,25 @@
       "names": [
         {
           "value": "Br. HUTABARAT //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F22*35319cc8-5b6a-446a-8973-187d0ec39325"
+        }
+      ],
+      "id": "I65*ad261de8-fb15-4959-a504-950336552ba0",
+      "names": [
+        {
+          "value": "DUMARIA //"
         }
       ],
       "eventsFacts": [
