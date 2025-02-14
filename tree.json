@@ -421,6 +421,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I59*edad8181-2b05-469b-86e0-0985ccf70270"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I56*dc115677-f531-4cc3-ab3a-1493287f16b9"
@@ -1748,6 +1753,25 @@
       "names": [
         {
           "value": "WESLEY //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F25*41bcd7f6-9518-4ee1-93ba-c1d4519b8c8d"
+        }
+      ],
+      "id": "I59*edad8181-2b05-469b-86e0-0985ccf70270",
+      "names": [
+        {
+          "value": "WENDY //"
         }
       ],
       "eventsFacts": [
