@@ -635,11 +635,7 @@
       ]
     },
     {
-      "husbandRefs": [
-        {
-          "ref": "I90*4c1fdf5f-1f6f-4eb7-8b9a-1773f9f0f9d9"
-        }
-      ],
+      "husbandRefs": [],
       "id": "F36*9536fd59-f219-4426-abd3-8b59ffa1ca09",
       "wifeRefs": [
         {
@@ -2762,25 +2758,6 @@
         {
           "tag": "SEX",
           "value": "F"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F36*9536fd59-f219-4426-abd3-8b59ffa1ca09"
-        }
-      ],
-      "id": "I90*4c1fdf5f-1f6f-4eb7-8b9a-1773f9f0f9d9",
-      "names": [
-        {
-          "value": "LIMBONG //"
-        }
-      ],
-      "eventsFacts": [
-        {
-          "tag": "SEX",
-          "value": "M"
         }
       ]
     },
