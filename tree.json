@@ -2552,13 +2552,18 @@
       "id": "I83*4a7c0d5c-b4a5-41f6-ad11-a98e445188b6",
       "names": [
         {
-          "value": "AYA YOGI //"
+          "value": "AMA YOGI //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
