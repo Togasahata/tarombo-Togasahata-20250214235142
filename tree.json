@@ -825,6 +825,9 @@
       "childRefs": [
         {
           "ref": "I126*7f22a6ba-ec01-4acc-8da0-15ec2ca5da95"
+        },
+        {
+          "ref": "I127*8498c881-7f19-496e-9eea-c3112d6af1c8"
         }
       ],
       "husbandRefs": [
@@ -3409,6 +3412,25 @@
       "names": [
         {
           "value": "RIANTO //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F50*1a38599b-7000-49b0-a73e-863a05968a29"
+        }
+      ],
+      "id": "I127*8498c881-7f19-496e-9eea-c3112d6af1c8",
+      "names": [
+        {
+          "value": "JANTO //"
         }
       ],
       "eventsFacts": [
