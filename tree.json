@@ -793,9 +793,6 @@
       "husbandRefs": [
         {
           "ref": "I120*0ac46b53-1c34-4eff-b1d6-104a28dd8913"
-        },
-        {
-          "ref": "I121*6f38ee50-0cae-4615-8531-01c470b326ef"
         }
       ],
       "id": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
@@ -3252,19 +3249,6 @@
           "date": "",
           "place": "",
           "tag": "BIRT"
-        }
-      ]
-    },
-    {
-      "fams": [
-        {
-          "ref": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
-        }
-      ],
-      "id": "I121*6f38ee50-0cae-4615-8531-01c470b326ef",
-      "names": [
-        {
-          "value": "Br. NAPITUPULU //"
         }
       ]
     }
