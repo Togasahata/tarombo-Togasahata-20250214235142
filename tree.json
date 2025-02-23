@@ -2488,13 +2488,18 @@
       "id": "I80*312ebb62-17f9-4f5d-b395-b09ba673558b",
       "names": [
         {
-          "value": "AMA BERLIANA //"
+          "value": "NIKODEMUS //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
@@ -3230,6 +3235,11 @@
         {
           "tag": "DEAT",
           "value": "Y"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     }
