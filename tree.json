@@ -788,6 +788,17 @@
           "ref": "I71*ebf6ca87-7b09-4896-8ac5-51e7ab46ede3"
         }
       ]
+    },
+    {
+      "husbandRefs": [
+        {
+          "ref": "I120*0ac46b53-1c34-4eff-b1d6-104a28dd8913"
+        },
+        {
+          "ref": "I121*6f38ee50-0cae-4615-8531-01c470b326ef"
+        }
+      ],
+      "id": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
     }
   ],
   "head": {
@@ -3221,6 +3232,11 @@
           "ref": "F34*c9f64e7c-2e89-462e-8c79-749737b0cd2c"
         }
       ],
+      "fams": [
+        {
+          "ref": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
+        }
+      ],
       "id": "I120*0ac46b53-1c34-4eff-b1d6-104a28dd8913",
       "names": [
         {
@@ -3236,6 +3252,19 @@
           "date": "",
           "place": "",
           "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
+        }
+      ],
+      "id": "I121*6f38ee50-0cae-4615-8531-01c470b326ef",
+      "names": [
+        {
+          "value": "Br. NAPITUPULU //"
         }
       ]
     }
