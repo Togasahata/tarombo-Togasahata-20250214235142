@@ -274,6 +274,9 @@
         },
         {
           "ref": "I81*8b95dba3-b749-4e2c-ac4b-b8ce44601270"
+        },
+        {
+          "ref": "I122*00c3a3a7-1a3f-4e2a-bb8c-1dcad7da312b"
         }
       ],
       "husbandRefs": [
@@ -3273,6 +3276,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F15*0d552c04-25c8-4f6d-9e5c-573f5363ecd5"
+        }
+      ],
+      "id": "I122*00c3a3a7-1a3f-4e2a-bb8c-1dcad7da312b",
+      "names": [
+        {
+          "value": "AMANI RAMSES //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
