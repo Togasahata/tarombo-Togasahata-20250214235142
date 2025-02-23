@@ -277,6 +277,9 @@
         },
         {
           "ref": "I122*00c3a3a7-1a3f-4e2a-bb8c-1dcad7da312b"
+        },
+        {
+          "ref": "I124*a9834722-e9b6-43f3-b5ab-b2c5cbb99e89"
         }
       ],
       "husbandRefs": [
@@ -3332,6 +3335,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F15*0d552c04-25c8-4f6d-9e5c-573f5363ecd5"
+        }
+      ],
+      "id": "I124*a9834722-e9b6-43f3-b5ab-b2c5cbb99e89",
+      "names": [
+        {
+          "value": "AMANI RIANTO //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
