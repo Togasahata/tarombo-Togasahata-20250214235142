@@ -1591,13 +1591,18 @@
       "id": "I32*008feefa-2156-4f61-a2e2-a0f701fff8f7",
       "names": [
         {
-          "value": "AMA SONGKITON (O.BISUK) //"
+          "value": "AMANI SONGKITON (O.BISUK) //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
