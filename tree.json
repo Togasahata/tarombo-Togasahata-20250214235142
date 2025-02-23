@@ -532,6 +532,9 @@
         },
         {
           "ref": "I80*312ebb62-17f9-4f5d-b395-b09ba673558b"
+        },
+        {
+          "ref": "I120*0ac46b53-1c34-4eff-b1d6-104a28dd8913"
         }
       ],
       "husbandRefs": [
@@ -3204,6 +3207,29 @@
       "names": [
         {
           "value": "SIANTURI //"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F34*c9f64e7c-2e89-462e-8c79-749737b0cd2c"
+        }
+      ],
+      "id": "I120*0ac46b53-1c34-4eff-b1d6-104a28dd8913",
+      "names": [
+        {
+          "value": "Ama Rolek //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
