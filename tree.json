@@ -822,6 +822,11 @@
       ]
     },
     {
+      "childRefs": [
+        {
+          "ref": "I126*7f22a6ba-ec01-4acc-8da0-15ec2ca5da95"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I124*a9834722-e9b6-43f3-b5ab-b2c5cbb99e89"
@@ -3391,6 +3396,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F50*1a38599b-7000-49b0-a73e-863a05968a29"
+        }
+      ],
+      "id": "I126*7f22a6ba-ec01-4acc-8da0-15ec2ca5da95",
+      "names": [
+        {
+          "value": "RIANTO //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
