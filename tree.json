@@ -1687,13 +1687,18 @@
       "id": "I36*51059bb4-52c0-4b42-acf7-f9bdb344351f",
       "names": [
         {
-          "value": "AMA DUA (O.JONGGA) //"
+          "value": "AMANI DUA (O.JONGGA) //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
