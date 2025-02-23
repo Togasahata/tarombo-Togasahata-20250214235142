@@ -1639,13 +1639,18 @@
       "id": "I34*22d6d92a-c4ed-4df1-a88e-ff6770470943",
       "names": [
         {
-          "value": "AMA SOGIT (O.MANGANDER) //"
+          "value": "AMANI SOGIT (O.MANGANDER) //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
