@@ -1827,13 +1827,18 @@
       "id": "I42*2a41b083-87bd-4b4e-9b90-ce30b9f10a01",
       "names": [
         {
-          "value": "AMA DELENA //"
+          "value": "AMANI DELENA //"
         }
       ],
       "eventsFacts": [
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
         }
       ]
     },
