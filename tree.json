@@ -795,7 +795,12 @@
           "ref": "I120*0ac46b53-1c34-4eff-b1d6-104a28dd8913"
         }
       ],
-      "id": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
+      "id": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646",
+      "wifeRefs": [
+        {
+          "ref": "I121*79f7455a-aff3-42a5-bc82-89967ced8174"
+        }
+      ]
     }
   ],
   "head": {
@@ -3249,6 +3254,25 @@
           "date": "",
           "place": "",
           "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F48*678c45cf-5fa0-45dc-bd30-463bac8bd646"
+        }
+      ],
+      "id": "I121*79f7455a-aff3-42a5-bc82-89967ced8174",
+      "names": [
+        {
+          "value": "Br. NAPITUPULU //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
         }
       ]
     }
